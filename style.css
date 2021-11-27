@@ -24,9 +24,11 @@
 }
 
 @media (max-width:768px) {
+
   .preview-app {
     text-align: center;
   }
+  
 }
 
 .to-do-app {
