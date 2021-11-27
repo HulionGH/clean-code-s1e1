@@ -6,23 +6,23 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.aaa {
+.preview-app {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.aaa img {
+.preview-app img {
   width: 100%;
 }
 
-.aaa .more_inf {
+.preview-app .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .aaa {
+  .preview-app {
     text-align: center;
   }
 }
